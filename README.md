@@ -1,4 +1,4 @@
-# Get Latest HTTP Error 500
+# Get Latest 10 Minutes of HTTP Error 500
 This is a simple bash script to get HTTP Error 500 within last 10 minutes
 
 ## Step Breakdown
